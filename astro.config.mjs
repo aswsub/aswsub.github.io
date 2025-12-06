@@ -6,5 +6,5 @@ import mdx from "@astrojs/mdx";
 // https://astro.build/config
 export default defineConfig({
   integrations: [mdx()],
-  site: 'https://absozero.github.io',
+  site: 'https://aswsub.github.io',
 });
